@@ -1,0 +1,15 @@
+C:\Users\Milena\Desktop\git\С#\helloconsole\bin\Debug\net6.0\helloconsole.exe
+C:\Users\Milena\Desktop\git\С#\helloconsole\bin\Debug\net6.0\helloconsole.deps.json
+C:\Users\Milena\Desktop\git\С#\helloconsole\bin\Debug\net6.0\helloconsole.runtimeconfig.json
+C:\Users\Milena\Desktop\git\С#\helloconsole\bin\Debug\net6.0\helloconsole.dll
+C:\Users\Milena\Desktop\git\С#\helloconsole\bin\Debug\net6.0\helloconsole.pdb
+C:\Users\Milena\Desktop\git\С#\helloconsole\obj\Debug\net6.0\helloconsole.csproj.AssemblyReference.cache
+C:\Users\Milena\Desktop\git\С#\helloconsole\obj\Debug\net6.0\helloconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milena\Desktop\git\С#\helloconsole\obj\Debug\net6.0\helloconsole.AssemblyInfoInputs.cache
+C:\Users\Milena\Desktop\git\С#\helloconsole\obj\Debug\net6.0\helloconsole.AssemblyInfo.cs
+C:\Users\Milena\Desktop\git\С#\helloconsole\obj\Debug\net6.0\helloconsole.csproj.CoreCompileInputs.cache
+C:\Users\Milena\Desktop\git\С#\helloconsole\obj\Debug\net6.0\helloconsole.dll
+C:\Users\Milena\Desktop\git\С#\helloconsole\obj\Debug\net6.0\refint\helloconsole.dll
+C:\Users\Milena\Desktop\git\С#\helloconsole\obj\Debug\net6.0\helloconsole.pdb
+C:\Users\Milena\Desktop\git\С#\helloconsole\obj\Debug\net6.0\helloconsole.genruntimeconfig.cache
+C:\Users\Milena\Desktop\git\С#\helloconsole\obj\Debug\net6.0\ref\helloconsole.dll

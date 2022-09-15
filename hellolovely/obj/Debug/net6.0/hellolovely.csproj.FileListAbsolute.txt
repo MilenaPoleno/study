@@ -1,0 +1,15 @@
+C:\Users\Milena\Desktop\git\С#\hellolovely\obj\Debug\net6.0\hellolovely.csproj.AssemblyReference.cache
+C:\Users\Milena\Desktop\git\С#\hellolovely\obj\Debug\net6.0\hellolovely.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milena\Desktop\git\С#\hellolovely\obj\Debug\net6.0\hellolovely.AssemblyInfoInputs.cache
+C:\Users\Milena\Desktop\git\С#\hellolovely\obj\Debug\net6.0\hellolovely.AssemblyInfo.cs
+C:\Users\Milena\Desktop\git\С#\hellolovely\obj\Debug\net6.0\hellolovely.csproj.CoreCompileInputs.cache
+C:\Users\Milena\Desktop\git\С#\hellolovely\bin\Debug\net6.0\hellolovely.exe
+C:\Users\Milena\Desktop\git\С#\hellolovely\bin\Debug\net6.0\hellolovely.deps.json
+C:\Users\Milena\Desktop\git\С#\hellolovely\bin\Debug\net6.0\hellolovely.runtimeconfig.json
+C:\Users\Milena\Desktop\git\С#\hellolovely\bin\Debug\net6.0\hellolovely.dll
+C:\Users\Milena\Desktop\git\С#\hellolovely\bin\Debug\net6.0\hellolovely.pdb
+C:\Users\Milena\Desktop\git\С#\hellolovely\obj\Debug\net6.0\hellolovely.dll
+C:\Users\Milena\Desktop\git\С#\hellolovely\obj\Debug\net6.0\refint\hellolovely.dll
+C:\Users\Milena\Desktop\git\С#\hellolovely\obj\Debug\net6.0\hellolovely.pdb
+C:\Users\Milena\Desktop\git\С#\hellolovely\obj\Debug\net6.0\hellolovely.genruntimeconfig.cache
+C:\Users\Milena\Desktop\git\С#\hellolovely\obj\Debug\net6.0\ref\hellolovely.dll

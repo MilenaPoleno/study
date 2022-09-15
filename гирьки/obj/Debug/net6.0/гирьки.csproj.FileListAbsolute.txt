@@ -1,0 +1,15 @@
+C:\Users\Milena\Desktop\git\С#\гирьки\obj\Debug\net6.0\гирьки.csproj.AssemblyReference.cache
+C:\Users\Milena\Desktop\git\С#\гирьки\obj\Debug\net6.0\гирьки.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milena\Desktop\git\С#\гирьки\obj\Debug\net6.0\гирьки.AssemblyInfoInputs.cache
+C:\Users\Milena\Desktop\git\С#\гирьки\obj\Debug\net6.0\гирьки.AssemblyInfo.cs
+C:\Users\Milena\Desktop\git\С#\гирьки\obj\Debug\net6.0\гирьки.csproj.CoreCompileInputs.cache
+C:\Users\Milena\Desktop\git\С#\гирьки\bin\Debug\net6.0\гирьки.exe
+C:\Users\Milena\Desktop\git\С#\гирьки\bin\Debug\net6.0\гирьки.deps.json
+C:\Users\Milena\Desktop\git\С#\гирьки\bin\Debug\net6.0\гирьки.runtimeconfig.json
+C:\Users\Milena\Desktop\git\С#\гирьки\bin\Debug\net6.0\гирьки.dll
+C:\Users\Milena\Desktop\git\С#\гирьки\bin\Debug\net6.0\гирьки.pdb
+C:\Users\Milena\Desktop\git\С#\гирьки\obj\Debug\net6.0\гирьки.dll
+C:\Users\Milena\Desktop\git\С#\гирьки\obj\Debug\net6.0\refint\гирьки.dll
+C:\Users\Milena\Desktop\git\С#\гирьки\obj\Debug\net6.0\гирьки.pdb
+C:\Users\Milena\Desktop\git\С#\гирьки\obj\Debug\net6.0\гирьки.genruntimeconfig.cache
+C:\Users\Milena\Desktop\git\С#\гирьки\obj\Debug\net6.0\ref\гирьки.dll
