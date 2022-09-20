@@ -24,6 +24,37 @@ Console.WriteLine(c);
 
 // 32679 -> 6
 
+
+Console.WriteLine("Введите число ");
+int a = Convert.ToInt32(Console.ReadLine());
+int ost = 0;
+int r = 10;
+
+int col = 0;
+
+while (ost < a)
+{
+   ost = a % r;
+    r = r * 10;
+    col++;
+}
+if (col < 3)
+{
+    Console.WriteLine("нема третьей цифры");
+}
+else
+{
+    int result = (a / (int)Math.Pow(10, col - 3)) % 10;
+    Console.WriteLine(result);
+}
+
+
+
+
+
+
+//Доп решение, если нужно 3ю цифру с конца
+
 Console.WriteLine("Введите число ");
 int a = Convert.ToInt32(Console.ReadLine());
 int nth = 3;
