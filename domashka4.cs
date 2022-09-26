@@ -48,6 +48,8 @@ Console.WriteLine(res);
 // 1, 2, 5, 7, 19 -> [1, 2, 5, 7, 19]
 // 6, 1, 33 -> [6, 1, 33]
 
+//1e решение если это ввод пользрвателем
+
 Console.WriteLine("Введите первое число");
 int a1 = Convert.ToInt32(Console.ReadLine());
 
@@ -79,5 +81,17 @@ int i = 0;
 while(i < array.Length)
 {
 Console.Write(array[i] + ", ");
+i++;
+}
+
+
+//2е решение если это генерирует программа (воставила ограничение на двухзначные числа, чтобы не было огромных полотен :))
+
+int [] array = new int [8];
+int i = 0;
+while (i < array.Length)
+{
+array [i] = new Random().Next(0, 99);
+Console.Write(array[i] + " ");
 i++;
 }
